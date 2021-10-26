@@ -1,0 +1,2 @@
+# GDTrivia
+Trivia discord bot
